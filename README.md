@@ -11,3 +11,5 @@
 # ใช้ streamlit ในการทำ
 # https://bekkeh2prl7v87hxltjhgx.streamlit.app/
 
+
+# https://www.youtube.com/watch?v=Z2rNKC2dQ54
