@@ -9,5 +9,5 @@
 
 
 # ใช้ streamlit ในการทำ
-# http://localhost:8501/#food-menu
+# https://bekkeh2prl7v87hxltjhgx.streamlit.app/
 
